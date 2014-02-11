@@ -1,4 +1,2 @@
 netlink
 =======
-
-netlink_examples
